@@ -117,3 +117,61 @@ Answer:
 Answer:
 <br><br>
 <br><hr>
+
+## UDP
+
+### 1
+<img width="1552" alt="image" src="https://github.com/arafifh/jarkom-task-tcp-udp/assets/89500557/2b503ac1-bbd8-4c54-bfc8-56edd67ae9ef">
+<br>
+Answer:
+<br><br>
+Pakcet Number: 5 <br>
+Protocol: SSDP
+Source Port: 47931
+Field: 4
+<br><hr>
+
+### 2
+<br>
+Answer:
+<br><br>
+The length of each of UDP Header field is 2 bytes
+<br><hr>
+
+### 3
+<img width="1552" alt="image" src="https://github.com/arafifh/jarkom-task-tcp-udp/assets/89500557/7b0a9333-c7bf-4ff9-b2a4-213eb3b52d23">
+<br>
+Answer:
+<br><br>
+The value of the length field is payload + UDP header field -> 275 + 8 = 283
+<br><hr>
+
+### 4
+<br>
+Answer:
+<br><br>
+The maximum bytes in UDP payload is 2^16 - 8 = 65527
+<br><hr>
+
+### 5
+<br>
+Answer:
+<br><br>
+The largest possible source port number is 2^16 = 65535
+<br><hr>
+
+### 6
+<br>
+Answer:
+<br><br>
+The protocol number for UDP is 17
+<br><hr>
+
+### 7
+<img width="1552" alt="image" src="https://github.com/arafifh/jarkom-task-tcp-udp/assets/89500557/e76afdd8-2cb1-4d58-ae58-b576d221ac19">
+<img width="1552" alt="image" src="https://github.com/arafifh/jarkom-task-tcp-udp/assets/89500557/05078db0-8e6b-41cc-a455-c40dc708a5c2">
+<br>
+Answer:
+<br><br>
+The destination port of packet 15 and source port of packet 17 is matched. we also can see that in the left column of "No." there is a arrow that this 2 packet is connected
+<br><hr>
